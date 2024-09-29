@@ -1,8 +1,5 @@
 ![Banner](assets/banner.png)
 
-# About-me
-A Simple Introduction About Myself
-
 # Hello there! I'm Reyzuto
 
 Nice to meet you, I'm not a programmer or anything, I'm just a regular osu!droid player.
