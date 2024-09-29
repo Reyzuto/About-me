@@ -1,4 +1,4 @@
-![Banner](assets/github-banner.png)
+![Banner](assets/banner.png)
 
 # About-me
 A Simple Introduction About Myself
