@@ -10,6 +10,4 @@ I'm just an NPC and an osu!droid player in general. My daily life is just playin
 
 ## Find me
 
--   Discord: [@reyzuto](discordapp.com/users/621114603170037761)
--   YouTube: [@reyzuto](https://youtube.com/@reyzuto?si=8voXukQyp3SwIiFs)
--   Instagram: [@reyzuto](https://www.instagram.com/reyzuto?igsh=MWhkcXJuM3J2Y3FydQ==)
+-Bio : [Bio](https://bio.site/Reyzuto)
